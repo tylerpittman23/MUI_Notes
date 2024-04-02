@@ -1,0 +1,13 @@
+{
+  "name": "mui_notes",
+  "version": "1.0.0",
+  "description": "Notes for learning Material UI ( MUI )",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd ./muiPractice && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
