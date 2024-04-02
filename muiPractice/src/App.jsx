@@ -5,6 +5,7 @@ import TemporaryDrawer from './assets/components/drawer';
 import { Box } from '@mui/material';
 import { Container } from '@mui/material';
 import { Typography } from '@mui/material';
+
 function App() {
 
   // the SX PROP is used to directly style different Material UI components < https://mui.com/system/getting-started/the-sx-prop/ > 
